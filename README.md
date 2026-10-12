@@ -39,3 +39,7 @@ Download [`plugins/notion-icons/skills/notion-icons`](plugins/notion-icons/skill
 plugins/notion-icons/.claude-plugin/plugin.json      plugin manifest
 plugins/notion-icons/skills/notion-icons/SKILL.md    the skill itself
 ```
+
+## License
+
+[MIT](LICENSE)

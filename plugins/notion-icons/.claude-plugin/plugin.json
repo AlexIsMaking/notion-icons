@@ -8,5 +8,6 @@
   },
   "homepage": "https://github.com/AlexIsMaking/notion-icons",
   "repository": "https://github.com/AlexIsMaking/notion-icons",
+  "license": "MIT",
   "keywords": ["notion", "icons"]
 }
