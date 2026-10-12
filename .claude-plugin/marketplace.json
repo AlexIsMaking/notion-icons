@@ -1,0 +1,14 @@
+{
+  "name": "anotioneer",
+  "description": "Notion skills from aNotioneer",
+  "owner": {
+    "name": "Alex Sherwood"
+  },
+  "plugins": [
+    {
+      "name": "notion-icons",
+      "source": "./plugins/notion-icons",
+      "description": "Look up valid Notion icon names and colours before applying them to pages"
+    }
+  ]
+}

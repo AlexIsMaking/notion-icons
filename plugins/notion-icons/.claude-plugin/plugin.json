@@ -1,0 +1,12 @@
+{
+  "name": "notion-icons",
+  "description": "Look up valid Notion icon names and colours before applying them to pages",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Sherwood",
+    "url": "https://anotioneer.com"
+  },
+  "homepage": "https://github.com/AlexIsMaking/notion-icons",
+  "repository": "https://github.com/AlexIsMaking/notion-icons",
+  "keywords": ["notion", "icons"]
+}
